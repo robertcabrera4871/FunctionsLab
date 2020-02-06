@@ -1,0 +1,3 @@
+﻿  Lab8.cpp
+c:\users\rober\source\repos\lab8\lab8\lab8.cpp(6): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Lab8.vcxproj -> C:\Users\rober\source\repos\Lab8\Debug\Lab8.exe
